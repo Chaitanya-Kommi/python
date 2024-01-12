@@ -1,7 +1,7 @@
 '''
 Tuple is immutable
 it allows duplicate values
-we store list values in ()
+we store tuple values in ()
 store different types of elements like int,string,float,complex,boolean
 
 Methods:
